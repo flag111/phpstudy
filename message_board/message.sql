@@ -9,4 +9,4 @@ CREATE TABLE `message` (
 `content` tinytext NOT NULL, 
 `lastdate` date NOT NULL, 
 PRIMARY KEY (`id`) 
-) ENGINE=InnoDB DEFAULT CHARSET=utf-8; 
+) ENGINE=InnoDB DEFAULT CHARSET=utf8; 
