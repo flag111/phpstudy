@@ -30,4 +30,4 @@ return false;
 用户：<INPUT TYPE="text" NAME="user" /><br /> 
 标题：<INPUT TYPE="text" NAME="title" /><br /> 
 内容：<TEXTAREA NAME="content" ROWS="8" COLS="30"></TEXTAREA><br /> 
-<INPUT TYPE="submit" name="submit" value="add" /></FORM> 
+<INPUT TYPE="submit" name="submit" value="添加" /></FORM> 
