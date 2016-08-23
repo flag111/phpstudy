@@ -10,6 +10,6 @@ while ($rs=mysql_fetch_array($result)){
 用户：<INPUT TYPE="text" NAME="user" value="<?=$rs[user]?>"/><br /> 
 标题：<INPUT TYPE="text" NAME="title" value="<?=$rs[title]?>"/><br /> 
 内容：<TEXTAREA NAME="content" ROWS="8" COLS="30"><?=$rs[content]?></TEXTAREA><br />
-<INPUT TYPE="submit" name="submit" value="edit"/> 
+<INPUT TYPE="submit" name="submit" value="编辑"/> 
 </FORM> 
 <?php }?> 
